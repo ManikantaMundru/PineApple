@@ -1,0 +1,9 @@
+C:\Users\Manik\source\repos\PineApple.Infrastructure\PineApple.Infrastructure.Data\bin\Debug\netcoreapp3.1\PineApple.Infrastructure.Data.deps.json
+C:\Users\Manik\source\repos\PineApple.Infrastructure\PineApple.Infrastructure.Data\bin\Debug\netcoreapp3.1\PineApple.Infrastructure.Data.dll
+C:\Users\Manik\source\repos\PineApple.Infrastructure\PineApple.Infrastructure.Data\obj\Debug\netcoreapp3.1\PineApple.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\Manik\source\repos\PineApple.Infrastructure\PineApple.Infrastructure.Data\obj\Debug\netcoreapp3.1\PineApple.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Manik\source\repos\PineApple.Infrastructure\PineApple.Infrastructure.Data\obj\Debug\netcoreapp3.1\PineApple.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Manik\source\repos\PineApple.Infrastructure\PineApple.Infrastructure.Data\bin\Debug\netcoreapp3.1\PineApple.Infrastructure.Data.pdb
+C:\Users\Manik\source\repos\PineApple.Infrastructure\PineApple.Infrastructure.Data\obj\Debug\netcoreapp3.1\PineApple.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Manik\source\repos\PineApple.Infrastructure\PineApple.Infrastructure.Data\obj\Debug\netcoreapp3.1\PineApple.Infrastructure.Data.dll
+C:\Users\Manik\source\repos\PineApple.Infrastructure\PineApple.Infrastructure.Data\obj\Debug\netcoreapp3.1\PineApple.Infrastructure.Data.pdb

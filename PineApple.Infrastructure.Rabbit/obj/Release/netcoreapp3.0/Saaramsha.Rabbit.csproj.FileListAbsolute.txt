@@ -1,0 +1,9 @@
+C:\Users\Manik\source\repos\Saaramsha.MessagingQueue\Saaramsha.Rabbit\bin\Release\netcoreapp3.0\Saaramsha.Rabbit.dll.config
+C:\Users\Manik\source\repos\Saaramsha.MessagingQueue\Saaramsha.Rabbit\bin\Release\netcoreapp3.0\Saaramsha.Rabbit.deps.json
+C:\Users\Manik\source\repos\Saaramsha.MessagingQueue\Saaramsha.Rabbit\bin\Release\netcoreapp3.0\Saaramsha.Rabbit.dll
+C:\Users\Manik\source\repos\Saaramsha.MessagingQueue\Saaramsha.Rabbit\bin\Release\netcoreapp3.0\Saaramsha.Rabbit.pdb
+C:\Users\Manik\source\repos\Saaramsha.MessagingQueue\Saaramsha.Rabbit\obj\Release\netcoreapp3.0\Saaramsha.Rabbit.csprojAssemblyReference.cache
+C:\Users\Manik\source\repos\Saaramsha.MessagingQueue\Saaramsha.Rabbit\obj\Release\netcoreapp3.0\Saaramsha.Rabbit.AssemblyInfoInputs.cache
+C:\Users\Manik\source\repos\Saaramsha.MessagingQueue\Saaramsha.Rabbit\obj\Release\netcoreapp3.0\Saaramsha.Rabbit.AssemblyInfo.cs
+C:\Users\Manik\source\repos\Saaramsha.MessagingQueue\Saaramsha.Rabbit\obj\Release\netcoreapp3.0\Saaramsha.Rabbit.dll
+C:\Users\Manik\source\repos\Saaramsha.MessagingQueue\Saaramsha.Rabbit\obj\Release\netcoreapp3.0\Saaramsha.Rabbit.pdb

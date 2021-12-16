@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GitHub\\P\\PineApple.Infrastructure.Rabbit\\PineApple.Infrastructure.Rabbit.csproj": {}
+  },
+  "projects": {
+    "C:\\GitHub\\P\\PineApple.Infrastructure.Rabbit\\PineApple.Infrastructure.Rabbit.csproj": {
+      "version": "1.0.4",
+      "restore": {
+        "projectUniqueName": "C:\\GitHub\\P\\PineApple.Infrastructure.Rabbit\\PineApple.Infrastructure.Rabbit.csproj",
+        "projectName": "PineApple.Infrastructure.Rabbit",
+        "projectPath": "C:\\GitHub\\P\\PineApple.Infrastructure.Rabbit\\PineApple.Infrastructure.Rabbit.csproj",
+        "packagesPath": "C:\\Users\\ManikantaMundru\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\P\\PineApple.Infrastructure.Rabbit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ManikantaMundru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\ManikantaMundru\\OneDrive - RapidDeploy\\Desktop\\LocalPackages": {},
+          "http://localhost:9999/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://disp.pkgs.visualstudio.com/_packaging/RapidDeployPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
